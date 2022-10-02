@@ -64,3 +64,5 @@ git branch -m <oldname> <newname> — переименовать ветку.
 git add .
 #Или так
 git add --all
+
+Команда git --help - выводит общую документацию по git
